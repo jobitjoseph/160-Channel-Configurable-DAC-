@@ -1,0 +1,18 @@
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\bin\Release\Antenna Controller.exe.config
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\bin\Release\Antenna Controller.exe
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\bin\Release\Antenna Controller.pdb
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\bin\Release\MaterialSkin.dll
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna Controller.csproj.AssemblyReference.cache
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna Controller.csproj.SuggestedBindingRedirects.cache
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna_Controller.Form1.resources
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna_Controller.Properties.Resources.resources
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna_Controller.WarningDialog.resources
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna Controller.csproj.GenerateResource.cache
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna Controller.csproj.CoreCompileInputs.cache
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna Controller.csproj.CopyComplete
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna Controller.exe
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna Controller.pdb
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\bin\Release\Antenna Controller.exe.manifest
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\bin\Release\Antenna Controller.application
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna Controller.exe.manifest
+D:\KMLSh\gui\Antenna Controller\Antenna Controller\obj\Release\Antenna Controller.application
